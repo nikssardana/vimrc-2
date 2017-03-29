@@ -77,3 +77,6 @@ hi Search cterm=NONE ctermfg=grey ctermbg=blue
 
 " disable syntax check for vim
 let g:syntastic_mode_map = { 'passive_filetypes': ['python'] }
+
+let g:typescript_compiler_binary = ''
+let g:typescript_compiler_options = ''
